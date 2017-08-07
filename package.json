@@ -1,0 +1,26 @@
+{
+  "name": "renovate-tests-onboarding-2",
+  "private": true,
+  "version": "1.2.0",
+  "description": "A",
+  "files": [
+    "*.md",
+    "docs/*.md",
+    "lib",
+    "src"
+  ],
+  "main": "lib/index",
+  "scripts": {
+    "test": "make test"
+  },
+  "authors": [
+    "François Zaninotto"
+  ],
+  "repository": "marmelab/admin-on-rest",
+  "homepage": "https://github.com/marmelab/admin-on-rest#readme",
+  "bugs": "https://github.com/marmelab/admin-on-rest/issues",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "2.0.0"
+  }
+}
