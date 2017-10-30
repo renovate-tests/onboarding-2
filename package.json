@@ -19,8 +19,9 @@
   "homepage": "https://github.com/marmelab/admin-on-rest#readme",
   "bugs": "https://github.com/marmelab/admin-on-rest/issues",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "asdfjweiojasdfkasdfjkalsdfas": "1.0.0",
+    "left-pad": "^1.0.0",
     "chalk": "^2.0.0"
   }
 }
