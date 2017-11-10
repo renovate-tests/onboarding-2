@@ -8,6 +8,7 @@
     "lib",
     "src"
   ],
+  
   "main": "lib/index",
   "scripts": {
     "test": "make test"
